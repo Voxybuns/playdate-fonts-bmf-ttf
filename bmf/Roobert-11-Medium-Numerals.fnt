@@ -1,0 +1,17 @@
+info face="Roobert-11-Medium-Numerals" size=22 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=0 aa=1 padding=0,0,0,0 spacing=0,0 outline=0
+common lineHeight=22 base=22 scaleW=88 scaleH=88 pages=1 packed=0
+page id=0 file="Roobert-11-Medium-Numerals.png"
+chars count=13
+char id=48 x=0 y=0 width=22 height=22 xoffset=0 yoffset=0 xadvance=13 page=0 chnl=15
+char id=49 x=22 y=0 width=22 height=22 xoffset=0 yoffset=0 xadvance=6 page=0 chnl=15
+char id=50 x=44 y=0 width=22 height=22 xoffset=0 yoffset=0 xadvance=12 page=0 chnl=15
+char id=51 x=66 y=0 width=22 height=22 xoffset=0 yoffset=0 xadvance=13 page=0 chnl=15
+char id=52 x=0 y=22 width=22 height=22 xoffset=0 yoffset=0 xadvance=13 page=0 chnl=15
+char id=53 x=22 y=22 width=22 height=22 xoffset=0 yoffset=0 xadvance=12 page=0 chnl=15
+char id=54 x=44 y=22 width=22 height=22 xoffset=0 yoffset=0 xadvance=13 page=0 chnl=15
+char id=55 x=66 y=22 width=22 height=22 xoffset=0 yoffset=0 xadvance=12 page=0 chnl=15
+char id=56 x=0 y=44 width=22 height=22 xoffset=0 yoffset=0 xadvance=12 page=0 chnl=15
+char id=57 x=22 y=44 width=22 height=22 xoffset=0 yoffset=0 xadvance=13 page=0 chnl=15
+char id=32 x=44 y=44 width=22 height=22 xoffset=0 yoffset=0 xadvance=4 page=0 chnl=15
+char id=58 x=66 y=44 width=22 height=22 xoffset=0 yoffset=0 xadvance=4 page=0 chnl=15
+char id=65533 x=0 y=66 width=22 height=22 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15

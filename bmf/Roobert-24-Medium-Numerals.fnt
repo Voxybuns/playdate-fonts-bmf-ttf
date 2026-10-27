@@ -1,0 +1,27 @@
+info face="Roobert-24-Medium-Numerals" size=36 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=0 aa=1 padding=0,0,0,0 spacing=0,0 outline=0
+common lineHeight=36 base=36 scaleW=180 scaleH=180 pages=1 packed=0
+page id=0 file="Roobert-24-Medium-Numerals.png"
+chars count=23
+char id=48 x=0 y=0 width=36 height=36 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=49 x=36 y=0 width=36 height=36 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=15
+char id=50 x=72 y=0 width=36 height=36 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=51 x=108 y=0 width=36 height=36 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=52 x=144 y=0 width=36 height=36 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=53 x=0 y=36 width=36 height=36 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=54 x=36 y=36 width=36 height=36 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=55 x=72 y=36 width=36 height=36 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=56 x=108 y=36 width=36 height=36 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=57 x=144 y=36 width=36 height=36 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=32 x=0 y=72 width=36 height=36 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=33 x=36 y=72 width=36 height=36 xoffset=0 yoffset=0 xadvance=3 page=0 chnl=15
+char id=34 x=72 y=72 width=36 height=36 xoffset=0 yoffset=0 xadvance=3 page=0 chnl=15
+char id=35 x=108 y=72 width=36 height=36 xoffset=0 yoffset=0 xadvance=3 page=0 chnl=15
+char id=36 x=144 y=72 width=36 height=36 xoffset=0 yoffset=0 xadvance=3 page=0 chnl=15
+char id=37 x=0 y=108 width=36 height=36 xoffset=0 yoffset=0 xadvance=3 page=0 chnl=15
+char id=38 x=36 y=108 width=36 height=36 xoffset=0 yoffset=0 xadvance=3 page=0 chnl=15
+char id=39 x=72 y=108 width=36 height=36 xoffset=0 yoffset=0 xadvance=3 page=0 chnl=15
+char id=40 x=108 y=108 width=36 height=36 xoffset=0 yoffset=0 xadvance=3 page=0 chnl=15
+char id=41 x=144 y=108 width=36 height=36 xoffset=0 yoffset=0 xadvance=3 page=0 chnl=15
+char id=42 x=0 y=144 width=36 height=36 xoffset=0 yoffset=0 xadvance=3 page=0 chnl=15
+char id=65533 x=36 y=144 width=36 height=36 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=58 x=72 y=144 width=36 height=36 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=15
