@@ -7,3 +7,5 @@ These converted fonts can help you create mock-ups for your Playdate projects, o
 ## License
 
 Original Playdate SDK fonts © [Panic](https://panic.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), converted to BMFont and TrueType formats from the original.
+
+This project is not associated or endorsed by Panic.
