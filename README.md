@@ -1,4 +1,4 @@
-# TTF/BMF Playdate SDK fonts
+# Playdate SDK Fonts in BMF/TTF
 
 A simple repository containing the fonts bundled with the [Playdate SDK](https://play.date/dev/), converted from the Playdate's [own font format](https://sdk.play.date/3.1.2/Inside%20Playdate.html#_text) into [BMFont](https://www.angelcode.com/products/bmfont/) and TrueType formats.
 
